@@ -773,6 +773,18 @@ video {
   --tw-gradient-to: #2563eb;
 }
 
+.to-blue-700 {
+  --tw-gradient-to: #1d4ed8;
+}
+
+.to-blue-800 {
+  --tw-gradient-to: #1e40af;
+}
+
+.to-blue-900 {
+  --tw-gradient-to: #1e3a8a;
+}
+
 .bg-auto {
   background-size: auto;
 }
