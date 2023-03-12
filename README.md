@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img align="center" src="img/counter-app.png" />
+<img src="img/counter-app.png" />
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
